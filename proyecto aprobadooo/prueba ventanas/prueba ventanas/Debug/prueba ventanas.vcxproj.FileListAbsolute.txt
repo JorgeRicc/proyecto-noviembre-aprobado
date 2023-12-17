@@ -1,0 +1,23 @@
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba ventanas.vcxproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.Form1.resources
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba ventanas.vcxproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.menuvista.resources
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.guardia.resources
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.registro.resources
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.Personal.resources
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.Servicio.resources
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.noticias.resources
+C:\Users\andre\OneDrive\Escritorio\proyecto final 2023\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.olvidocontra.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba ventanas.vcxproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.Form1.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.guardia.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.menuvista.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.noticias.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.olvidocontra.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.Personal.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.registro.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.Servicio.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba ventanas.vcxproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba ventanas.vcxproj.CopyComplete
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.agregar_servicio.resources
+C:\Users\andre\OneDrive\Escritorio\prueba ventanas\prueba ventanas\Debug\prueba_ventanas.modificar.resources
